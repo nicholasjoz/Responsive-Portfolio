@@ -394,9 +394,11 @@ footer {
 	 }
  	.navigate {
 		background-color: #fff;
-		width: 640px;
+		width: 600px;
 		border-bottom: 2px solid #ddd;
-		text-align: center;
+		text-align: left;
+		padding:0px;
+		margin: 0px;
 	 }
 
 	 .navigate ul li {
